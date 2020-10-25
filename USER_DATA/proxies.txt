@@ -1,0 +1,16 @@
+pr.rubyproxies.com:7777:customer-umct8d58-cc-PL-sessid-KLHLJUUM-sesstime-30:9UfZa4U4
+pr.rubyproxies.com:7777:customer-umct8d58-cc-PL-sessid-B7XPEBLX-sesstime-30:9UfZa4U4
+pr.rubyproxies.com:7777:customer-umct8d58-cc-PL-sessid-2T7U6YX6-sesstime-30:9UfZa4U4
+pr.rubyproxies.com:7777:customer-umct8d58-cc-PL-sessid-VPPM1BXI-sesstime-30:9UfZa4U4
+pr.rubyproxies.com:7777:customer-umct8d58-cc-PL-sessid-IZ3IFZWS-sesstime-30:9UfZa4U4
+88.218.48.211:8000:01ov0e:qLzQoW
+88.218.49.172:8000:01ov0e:qLzQoW
+88.218.49.121:8000:01ov0e:qLzQoW
+88.218.48.115:8000:01ov0e:qLzQoW
+88.218.48.39:8000:01ov0e:qLzQoW
+88.218.49.164:8000:01ov0e:qLzQoW
+88.218.49.224:8000:01ov0e:qLzQoW
+88.218.49.39:8000:01ov0e:qLzQoW
+88.218.50.226:8000:EPnsGd:Eyvjd1
+88.218.48.119:8000:EPnsGd:Eyvjd1
+88.218.50.153:8000:EPnsGd:Eyvjd1
